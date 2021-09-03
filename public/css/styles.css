@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 0;
+}
+
+hr {
+    margin: 0;
+}
+
+
+.navbar .dropdown-toggle::after {
+    display: none!important;
+}
+
+.navbar .nav-item {
+    border-right: 1px solid #EB8262;
+}
+
+.footer a {
+    font-size: 0.9rem;
+    display: block;
+    font-weight: 500;
+}
+
+.footer p {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
