@@ -5,15 +5,15 @@ namespace App\Http\Controllers\Frontend;
 use App\Http\Controllers\Controller;
 
 /**
- * Class InstallationController.
+ * Class ThermalProcess.
  */
-class InstallationController extends Controller
+class ThermalProcess extends Controller
 {
     /**
      * @return \Illuminate\View\View
      */
     public function index()
     {
-        return view('frontend.import_and_installation');
+        return view('frontend.product_services.thermal_process');
     }
 }

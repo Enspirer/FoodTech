@@ -20,6 +20,13 @@ hr {
 .navbar .nav-item {
     border-right: 1px solid #EB8262;
 }
+.navbar .nav-link {
+    border-bottom: 2px solid transparent;
+}
+
+.navbar .nav-link:hover {
+    border-bottom: 2px solid red;
+}
 
 .footer a {
     font-size: 0.9rem;

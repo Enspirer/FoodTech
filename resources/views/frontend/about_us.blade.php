@@ -34,15 +34,19 @@
 
 
     <div class="container mt-5 about_us_paragraphs">
-        <p>FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the food processing industry. Our main services are the import of high-quality food machinery, food ingredients, food packaging and food analytical equipment, in addition to providing consultancy services for plant designing, process line designing, food research & development, food safety certifications, Thermal Process Audits and Thermal Process Validation, food safety training, etc.</p>
+        <div class="row justify-content-center">
+            <div class="col-6">
+                <p>FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the food processing industry. Our main services are the import of high-quality food machinery, food ingredients, food packaging and food analytical equipment, in addition to providing consultancy services for plant designing, process line designing, food research & development, food safety certifications, Thermal Process Audits and Thermal Process Validation, food safety training, etc.</p>
 
-        <br>
+                <br>
 
-        <p>We are also engaged in providing value-addition to  Ceylon Cinnamon for the export market, having successfully carried out backward integration, including plant nursery management, cultivation, processing and packaging. We also process high quality Kithul syrup and Jackfruit-based products for the export market.</p>
+                <p>We are also engaged in providing value-addition to  Ceylon Cinnamon for the export market, having successfully carried out backward integration, including plant nursery management, cultivation, processing and packaging. We also process high quality Kithul syrup and Jackfruit-based products for the export market.</p>
 
-        <br>
+                <br>
 
-        <p>The Company is under the leadership of technical experts and professionals having more than 25 years’ experience in the food processing industry. FoodTech solutions (Pvt) Ltd is engaged as the local representative of leading  food machinery manufacturers in Thailand, Germany, Singapore, India, China and Italy.</p>
+                <p>The Company is under the leadership of technical experts and professionals having more than 25 years’ experience in the food processing industry. FoodTech solutions (Pvt) Ltd is engaged as the local representative of leading  food machinery manufacturers in Thailand, Germany, Singapore, India, China and Italy.</p>
+            </div>
+        </div>
     </div>
 
 
@@ -76,9 +80,9 @@
 
 
     <div class="container text-center about_us_history" style="margin-top: 5rem;">
-        <p style="font-size: 9rem">25 years'</p>
-        <p style="font-size: 4rem">Experience in the</p>
-        <p style="font-size: 4rem">Food processing industry.</p>
+        <p style="font-size: 7rem">25 years'</p>
+        <p style="font-size: 3rem">Experience in the</p>
+        <p style="font-size: 3rem">Food processing industry.</p>
     </div>
 
 

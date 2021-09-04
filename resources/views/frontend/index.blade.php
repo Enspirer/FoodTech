@@ -58,8 +58,8 @@
     <div class="container-fluid position-relative" style="background-color: #FFE5C5; top:-6.25rem; z-index: -1; padding: 6.25rem 0rem">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-5" style="text-align: justify;">
-                    <p>FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the Sri Lankan food processing industry and food industries in the South-Asian region</p>
+                <div class="col-6">
+                    <p style="text-align: justify;">FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the Sri Lankan food processing industry and food industries in the South-Asian region</p>
                 </div>
             </div>
         </div>
@@ -69,42 +69,58 @@
     <div class="container mt-5">
         <div class="row align-items-end">
             <div class="col-1 p-0">
-                <img src="{{ url('images/home/2.png') }}" alt="" class="img-fluid position-relative" style="top: -6rem">
+                <img src="{{ url('images/home/2.png') }}" alt="" class="img-fluid position-relative" style="top: -4.2rem">
             </div>
             <div class="col-11 p-0">
                 <div class="swiper categories">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-1.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Beverage Processing Industry</p>
+                            <a href="{{ route('frontend.beverage') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-1.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Beverage Processing Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-2.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Baking and Confectionery Industry</p>
+                            <a href="{{ route('frontend.baking') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-2.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Baking and Confectionery Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-3.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Dairy Industry</p>
+                            <a href="{{ route('frontend.dairy') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-3.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Dairy Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-4.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Fruit and Vegetable Processing Industry</p>
+                            <a href="{{ route('frontend.fruit') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-4.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Fruit and Vegetable Processing Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-5.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Spice Processing Industry</p>
+                            <a href="{{ route('frontend.spice') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-5.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Spice Processing Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-6.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Coconut Processing Industry</p>
+                            <a href="{{ route('frontend.coconut') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-6.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Coconut Processing Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-7.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Fish Processing and Canning Industry</p>
+                            <a href="{{ route('frontend.fish') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-7.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Fish Processing and Canning Industry</p>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ url('images/home/category-8.jpg') }}" alt="" class="img-fluid">
-                            <p class="category-p">Steam Boilers</p>
+                            <a href="{{ route('frontend.steam') }}" class="text-decoration-none text-dark">
+                                <img src="{{ url('images/home/category-8.jpg') }}" alt="" class="img-fluid">
+                                <p class="category-p">Steam Boilers</p>
+                            </a>
                         </div>
                     </div>
                 </div>
