@@ -17,6 +17,9 @@
     .slider-img {
         top: -3rem!important;
     }
+    .swiper-pagination {
+        display: none!important;
+    }
 }
 
 @media screen and (max-width: 1400px) {
@@ -25,6 +28,9 @@
     }
     .slider-img {
         top: -4.2rem!important;
+    }
+    .swiper-pagination {
+        display: none!important;
     }
 }
 
@@ -49,9 +55,6 @@
 @media screen and (max-width: 768px) {
     .index-img img {
         height: 15rem!important;
-    }
-    .swiper-pagination {
-        display: none!important;
     }
 }
 
