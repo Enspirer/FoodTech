@@ -163,6 +163,9 @@ ul li::before {
     .food-safety .col-md-1 {
         padding-bottom: 1.5rem;
     }
+    .food-safety-row {
+        padding: 0 1.5rem;
+    }
     .thermal {
         margin-top: 3rem!important;
         margin-bottom: 2rem!important;

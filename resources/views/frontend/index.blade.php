@@ -123,6 +123,8 @@
                             </a>
                         </div>
                     </div>
+
+                    <div class="swiper-pagination"></div>
                 </div>
             </div>
         </div>
@@ -159,7 +161,11 @@
                 768: {
                     slidesPerView: 8,
                 }
-            }
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
         });
     </script>
 @endpush

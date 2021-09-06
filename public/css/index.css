@@ -5,6 +5,10 @@
     margin-top: 0.7rem;
 }
 
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 15px!important;
+}
+
 
 @media screen and (min-width: 1400px) {
     .index-img img {
@@ -46,6 +50,9 @@
     .index-img img {
         height: 15rem!important;
     }
+    .swiper-pagination {
+        display: none!important;
+    }
 }
 
 @media screen and (max-width: 576px) {
@@ -73,6 +80,9 @@
     }
     .index-slider {
         margin-top: 1rem!important;
+    }
+    .swiper-pagination {
+        display: block!important;
     }
 }
 

@@ -76,9 +76,6 @@ h1, h2, h3, h4, h5, h6, p {
     #app {
         margin-top: 6.6rem!important;
     }
-    .footer hr {
-        width: 10rem!important;
-    }
     .navbar-nav {
         margin-top: 1rem;
         text-align: center;
@@ -92,6 +89,10 @@ h1, h2, h3, h4, h5, h6, p {
     }
     .dropdown-menu .dropdown-item {
         text-align: center;
+    }
+    .footer a {
+        font-size: 0.9rem;
+        margin-bottom: 0.7rem!important;
     }
     
 }
