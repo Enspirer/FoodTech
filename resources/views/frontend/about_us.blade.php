@@ -10,7 +10,7 @@
 
 @section('content')
 
-    <div class="container-fluid mt-3 py-5" style="background-color: #EB8262;">
+    <div class="container-fluid py-5 about-title" style="background-color: #EB8262;">
         <div class="container text-center text-white">
             <h2>ABOUT US</h2>
 
@@ -35,7 +35,7 @@
 
     <div class="container mt-5 about_us_paragraphs">
         <div class="row justify-content-center">
-            <div class="col-6">
+            <div class="col-md-6">
                 <p>FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the food processing industry. Our main services are the import of high-quality food machinery, food ingredients, food packaging and food analytical equipment, in addition to providing consultancy services for plant designing, process line designing, food research & development, food safety certifications, Thermal Process Audits and Thermal Process Validation, food safety training, etc.</p>
 
                 <br>
@@ -50,7 +50,7 @@
     </div>
 
 
-    <div class="container-fluid py-5" style="background-color: #EB8262; margin-top: 7rem;">
+    <div class="container-fluid py-5 vision_mission" style="background-color: #EB8262; margin-top: 7rem;">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -80,9 +80,9 @@
 
 
     <div class="container text-center about_us_history" style="margin-top: 5rem;">
-        <p style="font-size: 7rem">25 years'</p>
-        <p style="font-size: 3rem">Experience in the</p>
-        <p style="font-size: 3rem">Food processing industry.</p>
+        <p class="p1" style="font-size: 7rem">25 years'</p>
+        <p class="p2" style="font-size: 3rem">Experience in the</p>
+        <p class="p3" style="font-size: 3rem">Food processing industry.</p>
     </div>
 
 

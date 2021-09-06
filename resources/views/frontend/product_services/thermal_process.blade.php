@@ -10,33 +10,29 @@
 
 @section('content')
 
-    <div class="container-fluid mt-3 py-5 px-0">
+    <div class="container-fluid py-5 machinery-title" style="background-color: #FADDCE;">
         <div class="container text-center">
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1>Coconut Processing Industry</h1>
+                    <h1>Thermal Process Validation</h1>
                 </div>
             </div>
         </div>
 
-        <div class="mt-5">
-            <img src="{{ url('images/import_installation/coconut.jpg') }}" alt="" class="img-fluid w-100">
-        </div>
-
-        <div class="container position-relative" style="top: -6rem;">
-            <div class="row justify-content-center">
-                <div class="col-10">
-                    <img src="{{ url('images/import_installation/7.png') }}" alt="" class="img-fluid">
-                </div>
-            </div>
+        <div class="mt-5 machinery-image">
+            <img src="{{ url('images/products_services/thermal_process.jpg') }}" alt="" class="img-fluid w-100">
         </div>
 
 
-        <div class="container">
+        <div class="container thermal" style="margin-top: 5rem; margin-bottom: 3rem;">
             <div class="row justify-content-center">
-                <div class="col-6">
-                    <p style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure illo quibusdam nemo, dolore nobis nisi ab tempore rem error consectetur facere enim odio vero exercitationem eius ipsam autem, quam cumque laboriosam! Illum est, adipisci assumenda quo nisi cupiditate officia officiis nulla nemo architecto minus hic exercitationem, a doloremque quasi totam laborum explicabo tempora ex. Rem obcaecati eligendi perspiciatis maxime! Libero, consequuntur? Impedit nesciunt unde modi provident numquam iste quod, ullam id vitae praesentium officia quo culpa voluptate eveniet necessitatibus nisi expedita reprehenderit pariatur suscipit tempore. Possimus impedit officiis vel cum perferendis, consequatur recusandae aperiam cumque itaque obcaecati sequi cupiditate labore!</p>
+                <div class="col-md-6">
+                    <p style="text-align:justify;">Thermal process validation is an essential practice which is compulsory according US FDA regulations under low acid and Acidified low acid canned food regulation of 21 CFR 113 and 114. Wih the advancement of regulations thermal process validation has become important in canning of low acid canned foods such as canned coconut milk, canned vegetables, canned fish and other canned vegetables, as well as seafoods and meat products. Those who export canned foods to the USA are required to validate their thermal process in order to assure the time temperature combinations are compatible to control the most harmful and dangerous bacteria in the universe known as Clostridium botulinum. In this process we provide required technical consultation to select suitable and correct sterilizers and Retort inspections. We also conduct heat penetration trials and heat distribution studies in various types of retorts for any packaging materia such as cans, bottles, retort pouches, etc.</p>
+                        <br>
+                    <p style="text-align:justify;">We use the latest advanced thermal wireless loggers for thermal data collection process and these studies can also be carried out in rotary retort. We issue valid report for the study, and this report can be used in process filing in USFDA online system to obtain SID numbers specially for canned food exporters who exports low acid canned foods to the USA.</p>
+                        <br>
+                    <p style="text-align:justify;">This thermal process validation in conducted by highly qualified technical professionals who are well-experienced in food canning industry with USFDA approved BPCS certification.</p>
                 </div>
             </div>
         </div>

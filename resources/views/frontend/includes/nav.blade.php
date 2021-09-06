@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
 
     <div class="container" style="align-items: flex-end;">
 
@@ -31,7 +31,7 @@
                 </ul>
                 </li>
                 <li class="nav-item px-3 border-0">
-                    <a class="nav-link p-0" href="#" tabindex="-1">CONTACT US</a>
+                    <a class="nav-link p-0" href="{{ route('frontend.contact') }}" tabindex="-1">CONTACT US</a>
                 </li>
             </ul>
         </div>

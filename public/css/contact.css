@@ -1,0 +1,35 @@
+@media screen and (min-width: 1400px) {
+    .contact-img {
+        height: 25rem!important;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .contact-img {
+        height: 23rem!important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .contact-img {
+        height: 21rem!important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .contact-img {
+        height: 19rem!important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact-img {
+        height: 17rem!important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .contact-img {
+        height: 15rem!important;
+    }
+}

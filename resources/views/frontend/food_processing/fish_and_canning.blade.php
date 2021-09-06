@@ -10,7 +10,7 @@
 
 @section('content')
 
-    <div class="container-fluid mt-3 py-5 px-0">
+    <div class="container-fluid py-5 machinery-title" style="background-color: #E1E8F6;">
         <div class="container text-center">
 
             <div class="row justify-content-center">
@@ -20,11 +20,11 @@
             </div>
         </div>
 
-        <div class="mt-5">
+        <div class="mt-5 machinery-image">
             <img src="{{ url('images/import_installation/fish.jpg') }}" alt="" class="img-fluid w-100">
         </div>
 
-        <div class="container position-relative" style="top: -6rem;">
+        <div class="container position-relative machinery-image-abs" style="top: -6rem;">
             <div class="row justify-content-center">
                 <div class="col-10">
                     <img src="{{ url('images/import_installation/8.png') }}" alt="" class="img-fluid">
@@ -33,10 +33,20 @@
         </div>
 
 
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-6">
-                    <p style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure illo quibusdam nemo, dolore nobis nisi ab tempore rem error consectetur facere enim odio vero exercitationem eius ipsam autem, quam cumque laboriosam! Illum est, adipisci assumenda quo nisi cupiditate officia officiis nulla nemo architecto minus hic exercitationem, a doloremque quasi totam laborum explicabo tempora ex. Rem obcaecati eligendi perspiciatis maxime! Libero, consequuntur? Impedit nesciunt unde modi provident numquam iste quod, ullam id vitae praesentium officia quo culpa voluptate eveniet necessitatibus nisi expedita reprehenderit pariatur suscipit tempore. Possimus impedit officiis vel cum perferendis, consequatur recusandae aperiam cumque itaque obcaecati sequi cupiditate labore!</p>
+        <div class="container blue">
+            <div class="row justify-content-center mb-3">
+                <div class="col-md-6">
+                    <p style="text-align:justify;">Import and supply of brand-new and used machinery for fish processing and canning.</p>
+
+                    <ul class="p-3 mt-3 list">
+                        <li class="mb-2">Fish Washing</li>
+                        <li class="mb-2">De-heading, Slicing</li>
+                        <li class="mb-2">Cookers</li>
+                        <li class="mb-2">Can Filling and Can Seaming Machinery</li>
+                        <li class="mb-2">Sterilizers</li>
+                        <li class="mb-2">Labelling Machine</li>
+                        <li class="mb-2">Turnkey Solutions for Fish Canning</li>
+                    </ul>
                 </div>
             </div>
         </div>

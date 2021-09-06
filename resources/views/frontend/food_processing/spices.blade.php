@@ -10,7 +10,7 @@
 
 @section('content')
 
-    <div class="container-fluid mt-3 py-5 px-0">
+    <div class="container-fluid py-5 machinery-title" style="background-color: #FEE6D5;">
         <div class="container text-center">
 
             <div class="row justify-content-center">
@@ -20,18 +20,27 @@
             </div>
         </div>
 
-        <div class="mt-5">
+        <div class="mt-5 machinery-image">
             <img src="{{ url('images/import_installation/spices.jpg') }}" alt="" class="img-fluid w-100">
         </div>
 
-        <div class="container mt-5">
+        <div class="container mt-5 spices">
             <div class="row justify-content-center">
-                <div class="col-5 text-end">
+                <div class="col-sm-5 text-center text-md-end">
                     <img src="{{ url('images/import_installation/6.png') }}" alt="" class="img-fluid position-relative" style="height: 30rem; top: -6rem;">
                 </div>
 
-                <div class="col-7 pt-5">
-                    <p style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure illo quibusdam nemo, dolore nobis nisi ab tempore rem error consectetur facere enim odio vero exercitationem eius ipsam autem, quam cumque laboriosam! Illum est, adipisci assumenda quo nisi cupiditate officia officiis nulla nemo architecto minus hic exercitationem, a doloremque quasi totam laborum explicabo tempora ex. Rem obcaecati eligendi perspiciatis maxime! Libero, consequuntur? Impedit nesciunt unde modi provident numquam iste quod, ullam id vitae praesentium officia quo culpa voluptate eveniet necessitatibus nisi expedita reprehenderit pariatur suscipit tempore. Possimus impedit officiis vel cum perferendis, consequatur recusandae aperiam cumque itaque obcaecati sequi cupiditate labore!</p>
+                <div class="col-sm-7 pt-5">
+                    <p style="text-align:justify;">Import and supply of brand-new and used machinery for spice processing.</p>
+
+                    <ul class="p-3 mt-3 list">
+                        <li class="mb-2">Spice Grinding Machine</li>
+                        <li class="mb-2">Conveyers</li>
+                        <li class="mb-2">Spice Powder Filling Machines</li>
+                        <li class="mb-2">Spice Drying Ovens</li>
+                        <li class="mb-2">Vibro Separators</li>
+                        <li class="mb-2">Ribbon Blenders</li>
+                    </ul>
                 </div>
             </div>
         </div>

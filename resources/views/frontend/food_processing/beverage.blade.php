@@ -10,7 +10,7 @@
 
 @section('content')
 
-    <div class="container-fluid mt-3 py-5 px-0">
+    <div class="container-fluid py-5 machinery-title" style="background-color: #FFEFC6;">
         <div class="container text-center">
             <div class="row justify-content-center">
                 <div class="col-12">
@@ -19,12 +19,12 @@
             </div>
         </div>
 
-        <div class="mt-5">
+        <div class="mt-5 machinery-image">
             <img src="{{ url('images/import_installation/beverages.jpg') }}" alt="" class="img-fluid w-100">
         </div>
 
 
-        <div class="container position-relative" style="top: -6rem;">
+        <div class="container position-relative machinery-image-abs" style="top: -6rem;">
             <div class="row justify-content-center">
                 <div class="col-10">
                     <img src="{{ url('images/import_installation/2.png') }}" alt="" class="img-fluid">
@@ -34,9 +34,21 @@
 
 
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-6">
-                    <p style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure illo quibusdam nemo, dolore nobis nisi ab tempore rem error consectetur facere enim odio vero exercitationem eius ipsam autem, quam cumque laboriosam! Illum est, adipisci assumenda quo nisi cupiditate officia officiis nulla nemo architecto minus hic exercitationem, a doloremque quasi totam laborum explicabo tempora ex. Rem obcaecati eligendi perspiciatis maxime! Libero, consequuntur? Impedit nesciunt unde modi provident numquam iste quod, ullam id vitae praesentium officia quo culpa voluptate eveniet necessitatibus nisi expedita reprehenderit pariatur suscipit tempore. Possimus impedit officiis vel cum perferendis, consequatur recusandae aperiam cumque itaque obcaecati sequi cupiditate labore!</p>
+            <div class="row justify-content-center mb-4">
+                <div class="col-md-6">
+                    <p style="text-align:justify;">Import and supply of brand-new and used beverage processing machinery and complete turnkey solutions, according to customer requirements.</p>
+
+                    <ul class="p-3 mt-3 list">
+                        <li class="mb-2">Blending Tanks</li>
+                        <li class="mb-2">Pasteurizers (plate heat exchanges, tubular heat exchanges)</li>
+                        <li class="mb-2">UHT Plants (indirect, injection and infusion)</li>
+                        <li class="mb-2">Filling Machinery (for low viscous and high viscous products)</li>
+                        <li class="mb-2">Glass Bottle Filling Machinery for Still and Carbonated Soft Drinks</li>
+                        <li class="mb-2">Palletizer</li>
+                        <li class="mb-2">Rinser</li>
+                        <li class="mb-2">Crate Washer</li>
+                        <li class="mb-2">Beverage Canning Lines for Fruit Juices, Energy Drinks and Breweries</li>
+                    </ul>
                 </div>
             </div>
         </div>

@@ -30,7 +30,7 @@
     <body>
         @include('includes.partials.read-only')
 
-        <div id="app">
+        <div id="app" style="margin-top: 9rem;">
             @include('includes.partials.logged-in-as')
             @include('frontend.includes.nav')
 
@@ -42,47 +42,31 @@
 
 
 
-        <div class="footer container-fluid py-5" style="background-color: #C6866D; margin-top: 6rem;">
+        <div class="footer container-fluid py-5" style="background-color: #C6866D; margin-top: 2rem;">
             <div class="container">
-                <div class="row text-white justify-content-center">
-                    <div class="col-5">
-                        <h5>Our Products and Services</h5>
-                        <hr class="mb-2" style="width: 22rem;">
-                        <a href="" class="text-decoration-none text-white">Import and Installation of Food Processing Machinery</a>
-                        <a href="" class="text-decoration-none text-white">Designing Process Plants and Process Lines </a>
-                        <a href="" class="text-decoration-none text-white">Importing Food Ingredients and Packaging Materials</a>
-                        <a href="" class="text-decoration-none text-white">Consultancy for Food Safety Certification</a>
-                        <a href="" class="text-decoration-none text-white">Thermal Process Validation</a>
-                        <a href="" class="text-decoration-none text-white">Providing Training for Food Industry</a>
-                        <a href="" class="text-decoration-none text-white">Research and Development</a>
-                        <a href="" class="text-decoration-none text-white">Processing and Exports</a>
+                <div class="row text-white justify-content-between">
+                    <div class="col-md">
+                        <h5 class="border-bottom mb-2">Our Products and Services</h5>
+                        <a href="{{ route('frontend.import_and_installation') }}" class="text-decoration-none text-white">Import and Installation of Food Processing Machinery</a>
+                        <a href="#" class="text-decoration-none text-white">Designing Process Plants and Process Lines </a>
+                        <a href="#" class="text-decoration-none text-white">Importing Food Ingredients and Packaging Materials</a>
+                        <a href="{{ route('frontend.food_safety') }}" class="text-decoration-none text-white">Consultancy for Food Safety Certification</a>
+                        <a href="{{ route('frontend.thermal_process') }}" class="text-decoration-none text-white">Thermal Process Validation</a>
+                        <a href="#" class="text-decoration-none text-white">Providing Training for Food Industry</a>
+                        <a href="#" class="text-decoration-none text-white">Research and Development</a>
+                        <a href="#" class="text-decoration-none text-white">Processing and Exports</a>
                     </div>
 
-                    <div class="col-5">
-                        <h5>Contact Us</h5>
-                        <hr class="mb-2" style="width: 22rem;">
+                    <div class="col-md-1"></div>
+
+                    <div class="col-md">
+                        <h5 class="border-bottom mb-2">Contact Us</h5>
                         <p>80/16/5/31, Raymond Range, Panaluwa,</p>
                         <p>Watareke, Padukka. Sri Lanka.</p>
 
-                        <div class="row align-items-center">
-                            <div class="col-1">
-                                <i class="bi bi-telephone text-white"></i>
-                            </div>
+                        <p class="phone"><i class="bi bi-telephone text-white me-3"></i>+94714446144</p>
 
-                            <div class="col-11 p-0">
-                                <p>+94714446144</p>
-                            </div>
-                        </div>
-
-                        <div class="row align-items-center">
-                            <div class="col-1">
-                                <i class="bi bi-telephone text-white"></i>
-                            </div>
-
-                            <div class="col-11 p-0">
-                                <p>info@foodtechlk.com</p>
-                            </div>
-                        </div>
+                        <p class="email"><i class="bi bi-envelope text-white me-3"></i>info@foodtechlk.com</p>
                     </div>
                 </div>
             </div>
@@ -92,6 +76,7 @@
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
         <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
         <!-- Scripts -->
