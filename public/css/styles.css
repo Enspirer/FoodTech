@@ -94,5 +94,8 @@ h1, h2, h3, h4, h5, h6, p {
         font-size: 0.9rem;
         margin-bottom: 0.7rem!important;
     }
+    .swiper-button-next:after, .swiper-button-prev:after {
+        font-size: 1.7rem!important;
+    }
     
 }
