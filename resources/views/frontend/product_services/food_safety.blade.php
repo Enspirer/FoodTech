@@ -35,10 +35,10 @@
         </div>
     </div>
 
-    <div class="container food-safety" style="margin-top: 6rem;">
+    <div class="container food-safety-certificates" style="margin-top: 6rem;">
         <div class="row justify-content-center">
             <div class="col-md-6">
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -64,7 +64,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -90,7 +90,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -116,7 +116,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -142,7 +142,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -168,7 +168,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
@@ -194,7 +194,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-4 food-safety-row">
+                <div class="row mb-4 food-safety-certificates-row">
                     <div class="col-md border">
                         <div class="row align-items-center p-2">
                             <div class="col-4">

@@ -153,17 +153,17 @@ ul li::before {
     .food-packaging .col-md-4 {
         text-align: center;
     }
-    .food-safety {
+    .food-safety-certificates {
         margin-top: 3rem!important;
         text-align: center;
     }
-    .food-safety img {
+    .food-safety-certificates img {
         height: 4rem;
     }
-    .food-safety .col-md-1 {
+    .food-safety-certificates .col-md-1 {
         padding-bottom: 1.5rem;
     }
-    .food-safety-row {
+    .food-safety-certificates-row {
         padding: 0 1.5rem;
     }
     .thermal {
