@@ -50,29 +50,28 @@
     </div>
 
 
-    <div class="container-fluid py-5 vision_mission" style="background-color: #EB8262; margin-top: 7rem;">
+    <div class="container-fluid py-5 vision-mission" style="background-color: #EB8262; margin-top: 7rem;">
         <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <img src="{{ url('images/about_us/vision&mission.svg') }}" alt="" class="img-fluid" style="height: 10rem;">
+            <div class="row text-white">
+                <div class="col-md-6 text-center">
+                    <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid" style="height: 10rem;">
+
+                    <div class="row mt-3 justify-content-center">
+                        <div class="col-md-7">
+                            <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
+                        </div>
+                    </div>
+                    
                 </div>
 
-                <div class="row text-white mt-3">
+                <div class="col-md-6 text-center">
+                    <img src="{{ url('images/about_us/mission.svg') }}" alt="" class="img-fluid" style="height: 10rem;">
 
-                    <div class="col-1"></div>
-
-                    <div class="col-4 px-3 text-center">
-                        <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
+                    <div class="row mt-3">
+                        <div class="col-md-9">
+                            <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
+                        </div>
                     </div>
-
-                    <div class="col-1"></div>
-
-
-                    <div class="col-4 p-0 text-center">
-                        <p style="text-align:justify; font-size: 0.9rem;">To maximise customer satisfaction by offering cost-effective technical support for Sri Lankan food processing industries, together with value-addition to agro-based processing for the export market.</p>
-                    </div>
-
-                    <div class="col-2"></div>
                 </div>
             </div>
         </div>
