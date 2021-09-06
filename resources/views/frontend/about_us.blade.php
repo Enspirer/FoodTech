@@ -53,7 +53,7 @@
     <div class="container-fluid py-5 vision-mission" style="background-color: #EB8262; margin-top: 7rem;">
         <div class="container">
             <div class="row text-white">
-                <div class="col-md-6 text-center">
+                <div class="col-md-6">
                     <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid" style="height: 10rem;">
 
                     <div class="row mt-3 justify-content-center">
@@ -64,7 +64,7 @@
                     
                 </div>
 
-                <div class="col-md-6 text-center">
+                <div class="col-md-6">
                     <img src="{{ url('images/about_us/mission.svg') }}" alt="" class="img-fluid" style="height: 10rem;">
 
                     <div class="row mt-3">
