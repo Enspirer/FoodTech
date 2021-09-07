@@ -48,13 +48,19 @@
         height: 18rem!important;
     }
     .slider-img {
-        top: -5.5rem!important;
+        top: -4.5rem!important;
+    }
+    .category-p {
+        font-size: 0.7rem;
     }
 }
 
 @media screen and (max-width: 768px) {
     .index-img img {
         height: 15rem!important;
+    }
+    .category-p {
+        font-size: 0.6rem;
     }
 }
 

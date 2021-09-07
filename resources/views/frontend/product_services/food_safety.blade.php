@@ -10,24 +10,24 @@
 
 @section('content')
 
-    <div class="container-fluid py-5 machinery-title food-safety" style="background-color: #D9F1FD;">
+    <div class="container-fluid py-5 machinery-title food-safety px-0" style="background-color: #D9F1FD;">
         <div class="container text-center">
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1>Consultancy for Food Safety Certifications</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="500">Consultancy for Food Safety Certifications</h1>
                 </div>
             </div>
         </div>
 
         <div class="mt-5 machinery-image">
-            <img src="{{ url('images/products_services/food_safety.jpg') }}" alt="" class="img-fluid w-100">
+            <img src="{{ url('images/products_services/food_safety.jpg') }}" alt="" class="img-fluid w-100" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">
         </div>
 
         <div class="container-fluid pt-5 food-sub">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-6">
+                    <div class="col-md-8 col-lg-6" data-aos="fade-up" data-aos-duration="500">
                         <h5 style="text-align: justify;">We provide consultations for implementation of food safety certifications such as BRC, IFS, ISO 22000, FSSC, HACCP, organic certifications, social standards and religious standards, including documentation, staff training, processing plans gap audits, internal audits, GMP audits, fabrication audits, etc.</h5>
                     </div>
                 </div>
@@ -37,12 +37,12 @@
 
     <div class="container food-safety-certificates" style="margin-top: 6rem;">
         <div class="row justify-content-center">
-            <div class="col-md-6">
+            <div class="col-md-8 col-lg-6">
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
-                                <img src="{{ url('images/products_services/food_safety/1.jpg') }}" alt="" class="img-fluid">
+                                <img src="{{ url('images/products_services/food_safety/1.jpg') }}" alt="" class="img-fluid" >
                             </div>
                             <div class="col-8">
                                 <p>Hazard Analysis Critical Control Point (HACCP)</p>
@@ -52,7 +52,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/2.jpg') }}" alt="" class="img-fluid">
@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/3.jpg') }}" alt="" class="img-fluid">
@@ -78,7 +78,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/4.jpg') }}" alt="" class="img-fluid">
@@ -91,7 +91,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/5.jpg') }}" alt="" class="img-fluid">
@@ -104,7 +104,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/6.jpg') }}" alt="" class="img-fluid">
@@ -117,7 +117,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/7.jpg') }}" alt="" class="img-fluid">
@@ -130,7 +130,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/8.jpg') }}" alt="" class="img-fluid">
@@ -143,7 +143,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/9.jpg') }}" alt="" class="img-fluid">
@@ -156,7 +156,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/10.jpg') }}" alt="" class="img-fluid">
@@ -169,7 +169,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/11.jpg') }}" alt="" class="img-fluid">
@@ -182,7 +182,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/12.jpg') }}" alt="" class="img-fluid">
@@ -195,7 +195,7 @@
                 </div>
 
                 <div class="row mb-4 food-safety-certificates-row">
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/13.jpg') }}" alt="" class="img-fluid">
@@ -208,7 +208,7 @@
 
                     <div class="col-md-1"></div>
 
-                    <div class="col-md border">
+                    <div class="col-md border" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
                         <div class="row align-items-center p-2">
                             <div class="col-4">
                                 <img src="{{ url('images/products_services/food_safety/14.jpg') }}" alt="" class="img-fluid">

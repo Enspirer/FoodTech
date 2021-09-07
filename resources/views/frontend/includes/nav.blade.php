@@ -3,7 +3,7 @@
 
     <div class="container" style="align-items: flex-end;">
 
-        <a class="navbar-brand" href="{{ route('frontend.index') }}">
+        <a class="navbar-brand" href="{{ route('frontend.index') }}" data-aos="zoom-out" data-aos-duration="800">
             <img src="{{ url('images/logo.png') }}" alt="" class="img-fluid" style="height: 6.5rem;">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,13 +12,13 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mb-2 mb-lg-0 ms-auto p-0">
-                <li class="nav-item px-3">
+                <li class="nav-item px-3" data-aos="fade-left" data-aos-duration="500">
                     <a class="nav-link p-0 {{ Request::segment(1) == null ? 'active' : null }}" aria-current="page" href="{{ route('frontend.index') }}">HOME</a>
                 </li>
-                <li class="nav-item px-3">
+                <li class="nav-item px-3" data-aos="fade-left" data-aos-duration="500" data-aos-delay="150">
                     <a class="nav-link p-0 {{ Request::segment(1) == 'about-us' ? 'active' : null }}" href="{{ route('frontend.about_us') }}">ABOUT US</a>
                 </li>
-                <li class="nav-item dropdown px-3">
+                <li class="nav-item dropdown px-3" data-aos="fade-left" data-aos-duration="500" data-aos-delay="300">
                     <a class="nav-link dropdown-toggle p-0 {{ Request::segment(1) == 'import-and-installation-of-food-processing-machinery' ? 'active' : (Request::segment(1) == 'import-food-packaging' ? 'active' : (Request::segment(1) == 'food-ingredients' ? 'active' : (Request::segment(1) == 'consultancy-for-food-safety-certifications' ? 'active' : (Request::segment(1) == 'thermal-process-validation' ? 'active' : null)))) }}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         PRODUCTS & SERVICES
                 </a>
@@ -30,7 +30,7 @@
                     <li><a class="dropdown-item" href="{{ route('frontend.thermal_process') }}">Thermal Process Validation</a></li>
                 </ul>
                 </li>
-                <li class="nav-item px-3 border-0">
+                <li class="nav-item px-3 border-0" data-aos="fade-left" data-aos-duration="500" data-aos-delay="450">
                     <a class="nav-link p-0" href="{{ route('frontend.contact') }}" tabindex="-1">CONTACT US</a>
                 </li>
             </ul>
