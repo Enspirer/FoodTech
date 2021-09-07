@@ -101,6 +101,9 @@ h1, h2, h3, h4, h5, h6, p {
     .footer .email i {
         margin-right: 0.4rem!important;
     }
+    .swiper-button-next:after, .swiper-button-prev:after {
+        font-size: 1.8rem!important;
+    }
 }
 
 @media screen and (max-width: 576px) {
@@ -109,5 +112,8 @@ h1, h2, h3, h4, h5, h6, p {
     }
     #app {
         margin-top: 6.6rem!important;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after {
+        font-size: 1.7rem!important;
     }
 }
