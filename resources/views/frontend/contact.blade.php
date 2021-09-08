@@ -78,7 +78,7 @@
                         <div class="modal-body">
                             <h4 class="mb-3">Hello,</h4>
 
-                            <h4 class="mb-4 text-center">Your message has been submitted. We will contact you shortly.</h4>
+                            <h4 class="mb-4 text-center">Thank you for contacting us, we will get back to you shortly.</h4>
 
                             <h6 class="mb-2">Regards,</h6>
                             <h6>Food Tech Team</h6>
