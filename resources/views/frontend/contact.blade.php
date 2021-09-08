@@ -69,9 +69,9 @@
         @if(session()->get('flash_success'))
 
         <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" id="modal-btn" data-bs-toggle="modal" data-bs-target="#exampleModal"></button>
+        <button type="button" class="btn btn-primary invisible" id="modal-btn" data-bs-toggle="modal" data-bs-target="#exampleModal"></button>
 
-            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-lg modal-dialog-centered">
                     <div class="modal-content">
 
