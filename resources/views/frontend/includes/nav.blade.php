@@ -18,17 +18,18 @@
                 <li class="nav-item px-3" data-aos="fade-left" data-aos-duration="500" data-aos-delay="150">
                     <a class="nav-link p-0 {{ Request::segment(1) == 'about-us' ? 'active' : null }}" href="{{ route('frontend.about_us') }}">ABOUT US</a>
                 </li>
-                <li class="nav-item dropdown px-3" data-aos="fade-left" data-aos-duration="500" data-aos-delay="300">
-                    <a class="nav-link dropdown-toggle p-0 {{ Request::segment(1) == 'import-and-installation-of-food-processing-machinery' ? 'active' : (Request::segment(1) == 'import-food-packaging' ? 'active' : (Request::segment(1) == 'food-ingredients' ? 'active' : (Request::segment(1) == 'consultancy-for-food-safety-certifications' ? 'active' : (Request::segment(1) == 'thermal-process-validation' ? 'active' : null)))) }}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <li class="nav-item dropdown px-3 disabled" data-aos="fade-left" data-aos-duration="500" data-aos-delay="300">
+                    <a class="nav-link dropdown-toggle p-0 {{ Request::segment(1) == 'import-and-installation-of-food-processing-machinery' ? 'active' : (Request::segment(1) == 'import-food-packaging' ? 'active' : (Request::segment(1) == 'food-ingredients' ? 'active' : (Request::segment(1) == 'consultancy-for-food-safety-certifications' ? 'active' : (Request::segment(1) == 'thermal-process-validation' ? 'active' : null)))) }}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" disabled>
                         PRODUCTS & SERVICES
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="{{ route('frontend.import_and_installation') }}">Import and Installation of Food Processing Machinery</a></li>
-                    <li><a class="dropdown-item" href="{{ route('frontend.food_packaging') }}">Import Food Packaging</a></li>
-                    <li><a class="dropdown-item" href="{{ route('frontend.food_ingredients') }}">Food Ingredients</a></li>
-                    <li><a class="dropdown-item" href="{{ route('frontend.food_safety') }}">Consultancy for Food Safety Certifications</a></li>
-                    <li><a class="dropdown-item" href="{{ route('frontend.thermal_process') }}">Thermal Process Validation</a></li>
-                </ul>
+                    </a>
+                    
+                    <ul class="dropdown-menu px-0" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item py-2" href="{{ route('frontend.import_and_installation') }}">Import and Installation of Food Processing Machinery</a></li>
+                        <li><a class="dropdown-item py-2" href="{{ route('frontend.food_packaging') }}">Import Food Packaging</a></li>
+                        <li><a class="dropdown-item py-2" href="{{ route('frontend.food_ingredients') }}">Food Ingredients</a></li>
+                        <li><a class="dropdown-item py-2" href="{{ route('frontend.food_safety') }}">Consultancy for Food Safety Certifications</a></li>
+                        <li><a class="dropdown-item py-2 mb-0" href="{{ route('frontend.thermal_process') }}">Thermal Process Validation</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item px-3 border-0" data-aos="fade-left" data-aos-duration="500" data-aos-delay="450">
                     <a class="nav-link p-0" href="{{ route('frontend.contact') }}" tabindex="-1">CONTACT US</a>
