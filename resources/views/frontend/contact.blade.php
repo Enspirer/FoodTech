@@ -71,17 +71,12 @@
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" id="modal-btn" data-bs-toggle="modal" data-bs-target="#exampleModal"></button>
 
-            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog modal-lg">
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
                     <div class="modal-content">
 
-                        <div class="modal-body">
-                            <h4 class="mb-3">Hello,</h4>
-
-                            <h4 class="mb-4 text-center">Thank you for contacting us, we will get back to you shortly.</h4>
-
-                            <h6 class="mb-2">Regards,</h6>
-                            <h6>Food Tech Team</h6>
+                        <div class="modal-body" style="padding: 5rem 1rem;">
+                            <h3 class="mb-0 text-center">Thank you for contacting us, we will get back to you shortly.</h3>
                         </div>
                         <div class="modal-footer">
                             <a href="{{ route('frontend.contact') }}" class="btn" style="background-color: green;color: white">Refresh</a>
