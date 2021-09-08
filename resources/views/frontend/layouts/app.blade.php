@@ -36,7 +36,7 @@
             @include('frontend.includes.nav')
 
             
-            @include('includes.partials.messages')
+            <!-- @include('includes.partials.messages') -->
             @yield('content')
             
         </div><!-- #app -->
@@ -49,13 +49,13 @@
                     <div class="col-md">
                         <h5 class="border-bottom mb-2">Our Products and Services</h5>
                         <a href="{{ route('frontend.import_and_installation') }}" class="text-decoration-none text-white mb-1 d-inline-block">Import and Installation of Food Processing Machinery</a><br>
-                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Designing Process Plants and Process Lines </a><br>
-                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Importing Food Ingredients and Packaging Materials</a><br>
+                        <p href="#" class="text-decoration-none text-white mb-1 d-inline-block">Designing Process Plants and Process Lines </p><br>
+                        <p href="#" class="text-decoration-none text-white mb-1 d-inline-block">Importing Food Ingredients and Packaging Materials</p><br>
                         <a href="{{ route('frontend.food_safety') }}" class="text-decoration-none text-white mb-1 d-inline-block">Consultancy for Food Safety Certification</a><br>
                         <a href="{{ route('frontend.thermal_process') }}" class="text-decoration-none text-white mb-1 d-inline-block">Thermal Process Validation</a><br>
-                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Providing Training for Food Industry</a><br>
-                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Research and Development</a><br>
-                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Processing and Exports</a>
+                        <p href="#" class="text-decoration-none text-white mb-1 d-inline-block">Providing Training for Food Industry</p><br>
+                        <p href="#" class="text-decoration-none text-white mb-1 d-inline-block">Research and Development</p><br>
+                        <p href="#" class="text-decoration-none text-white mb-1 d-inline-block">Processing and Exports</p>
                     </div>
 
                     <div class="col-md-1"></div>

@@ -51,11 +51,11 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 0.9rem;
     display: block;
     font-weight: 500;
-    border-bottom: 2px solid transparent;
+    border-bottom: 1px solid transparent;
 }
 
 .footer a:hover {
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid white;
 }
 
 .footer p {
@@ -67,6 +67,9 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 0.9rem;
 }
 
+.g-recaptcha {
+    display: inline-block;
+}
 
 
 

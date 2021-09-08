@@ -37,6 +37,7 @@ Route::get('/consultancy-for-food-safety-certifications', [FoodSafety::class, 'i
 Route::get('/thermal-process-validation', [ThermalProcess::class, 'index'])->name('thermal_process');
 
 Route::get('contact', [ContactController::class, 'index'])->name('contact');
+
 Route::post('contact/send', [ContactController::class, 'send'])->name('contact.send');
 
 /*
