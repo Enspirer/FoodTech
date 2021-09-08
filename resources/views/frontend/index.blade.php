@@ -49,13 +49,19 @@
     </div>
 
 
-    <div class="container-fluid mt-5 index-img">
-        <div class="text-center">
-            <img src="{{ url('images/home/1.png') }}" alt="" class="img-fluid" style="height: 37.5rem;" data-aos="zoom-in" data-aos-duration="1000">
+    <div class="container index-image" style="margin-top: 11rem;">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <div class="text-center position-relative">
+                    <img src="{{ url('images/home/a.png') }}" alt="" class="img-fluid position-absolute index-img1" style="left:-2rem; height:38.5rem; top: -8rem;" data-aos="zoom-in" data-aos-duration="1000">
+                    <img src="{{ url('images/home/b.png') }}" alt="" class="img-fluid position-absolute index-img2" style="left:18rem; height:22rem; top:-4rem;" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="150">
+                    <img src="{{ url('images/home/c.png') }}" alt="" class="img-fluid position-absolute index-img3" style="left:21rem; height:19rem; top:11rem;" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="300">
+                </div>
+            </div>
         </div>
     </div>
 
-    <div class="container-fluid position-relative index-details" style="background-color: #FFE5C1; top:-6.25rem; z-index: -1; padding: 6.25rem 0rem">
+    <div class="container-fluid index-details" style="background-color: #FFE5C1; z-index: -1; padding: 6.25rem 0rem; margin-top: 30rem;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-6">
@@ -69,7 +75,7 @@
     <div class="container mt-5 index-slider">
         <div class="row align-items-end">
             <div class="col-1 d-none d-md-block p-0">
-                <img src="{{ url('images/home/2.png') }}" alt="" class="img-fluid position-relative slider-img" style="top: -4.2rem" data-aos="fade-right" data-aos-duration="500">
+                <img src="{{ url('images/home/1.png') }}" alt="" class="img-fluid position-relative slider-img" style="top: -4.2rem" data-aos="fade-right" data-aos-duration="500">
             </div>
             <div class="col-11 p-0" style="margin: 0 auto">
                 <div class="swiper categories">

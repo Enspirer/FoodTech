@@ -48,26 +48,26 @@
                 <div class="row text-white justify-content-between" data-aos="fade-up" data-aos-duration="500">
                     <div class="col-md">
                         <h5 class="border-bottom mb-2">Our Products and Services</h5>
-                        <a href="{{ route('frontend.import_and_installation') }}" class="text-decoration-none text-white">Import and Installation of Food Processing Machinery</a>
-                        <a href="#" class="text-decoration-none text-white">Designing Process Plants and Process Lines </a>
-                        <a href="#" class="text-decoration-none text-white">Importing Food Ingredients and Packaging Materials</a>
-                        <a href="{{ route('frontend.food_safety') }}" class="text-decoration-none text-white">Consultancy for Food Safety Certification</a>
-                        <a href="{{ route('frontend.thermal_process') }}" class="text-decoration-none text-white">Thermal Process Validation</a>
-                        <a href="#" class="text-decoration-none text-white">Providing Training for Food Industry</a>
-                        <a href="#" class="text-decoration-none text-white">Research and Development</a>
-                        <a href="#" class="text-decoration-none text-white">Processing and Exports</a>
+                        <a href="{{ route('frontend.import_and_installation') }}" class="text-decoration-none text-white mb-1 d-inline-block">Import and Installation of Food Processing Machinery</a><br>
+                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Designing Process Plants and Process Lines </a><br>
+                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Importing Food Ingredients and Packaging Materials</a><br>
+                        <a href="{{ route('frontend.food_safety') }}" class="text-decoration-none text-white mb-1 d-inline-block">Consultancy for Food Safety Certification</a><br>
+                        <a href="{{ route('frontend.thermal_process') }}" class="text-decoration-none text-white mb-1 d-inline-block">Thermal Process Validation</a><br>
+                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Providing Training for Food Industry</a><br>
+                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Research and Development</a><br>
+                        <a href="#" class="text-decoration-none text-white mb-1 d-inline-block">Processing and Exports</a>
                     </div>
 
                     <div class="col-md-1"></div>
 
                     <div class="col-md">
                         <h5 class="border-bottom mb-2">Contact Us</h5>
-                        <p>80/16/5/31, Raymond Range, Panaluwa,</p>
-                        <p>Watareke, Padukka. Sri Lanka.</p>
+                        <p class="mb-1">80/16/5/31, Raymond Range, Panaluwa,</p>
+                        <p class="mb-1">Watareke, Padukka. Sri Lanka.</p>
 
-                        <p class="phone"><i class="bi bi-telephone text-white me-3"></i>+94714446144</p>
+                        <p class="phone mb-1"><i class="bi bi-telephone text-white me-3"></i>+94714446144</p>
 
-                        <p class="email"><i class="bi bi-envelope text-white me-3"></i>info@foodtechlk.com</p>
+                        <p class="email mb-1"><i class="bi bi-envelope text-white me-3"></i>info@foodtechlk.com</p>
                     </div>
                 </div>
             </div>

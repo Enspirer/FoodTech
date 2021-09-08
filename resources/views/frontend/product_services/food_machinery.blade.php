@@ -110,10 +110,10 @@
 @push('after-scripts')
     <script>
         $('.machine-categories .col-md-4').hover(function() {
-            $(this).addClass('cat-hover');
+            $(this).find('img').addClass('cat-hover');
             $(this).find('p').addClass('cat-hover-p');
         }, function() {
-            $(this).removeClass('cat-hover');
+            $(this).find('img').removeClass('cat-hover');
             $(this).find('p').removeClass('cat-hover-p');
         });
     </script>

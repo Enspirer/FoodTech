@@ -29,7 +29,7 @@
 }
 
 ul {
-    list-style: none; /* Remove default bullets */
+    list-style: none;
 }
   
 ul li::before {
