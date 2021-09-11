@@ -174,7 +174,7 @@
         font-size: 1rem;
     }
     .index-title h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .index-sub {
         padding: 0.9rem 0!important;
@@ -209,6 +209,10 @@
     }
     .swiper-pagination {
         display: block!important;
+    }
+    .category-p {
+        font-weight: 400!important;
+        font-size: 0.8rem!important;
     }
 }
 

@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row justify-content-end">
                 <div class="col-6-md text-center text-md-end">
-                    <img src="{{ url('images/home/1.png') }}" alt="" class="img-fluid contact-img" style="height: 30rem;"  data-aos="zoom-out" data-aos-duration="800">
+                    <img src="{{ url('images/contact.png') }}" alt="" class="img-fluid contact-img" style="height: 30rem;"  data-aos="zoom-out" data-aos-duration="800">
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@
                         </div>
 
                         <div class="row mb-4 justify-content-center">
-                            <div class="col-6 text-center">
+                            <div class="col-md-6 text-center">
                                 <div class="g-recaptcha" data-callback="checked" data-sitekey="6Lel4Z4UAAAAAOa8LO1Q9mqKRUiMYl_00o5mXJrR"></div>
                             </div>
                         </div>

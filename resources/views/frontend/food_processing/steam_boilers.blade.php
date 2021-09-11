@@ -15,7 +15,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="fade-up" data-aos-duration="500">Steam Boilers</h1>
+                    <h1 data-aos="fade-up" data-aos-duration="500" style="color: #3f7194;">Steam Boilers</h1>
                 </div>
             </div>
         </div>
@@ -42,6 +42,8 @@
         </div>
 
     </div>
+
+    @include('frontend.includes.categories')
 
 
 @endsection

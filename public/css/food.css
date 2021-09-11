@@ -130,6 +130,9 @@ ul li::before {
     .machinery-image-abs {
         top: -3rem!important;
     }
+    .blue {
+        top: 0rem!important;
+    }
     .list {
         padding: 1rem 2rem!important;
     }

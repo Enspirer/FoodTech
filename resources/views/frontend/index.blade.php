@@ -65,7 +65,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-6">
-                    <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500">FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the Sri Lankan food processing industry and food industries in the South-Asian region</p>
+                    <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500">FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the Sri Lankan food processing industry and food industries in the South-Asian region.</p>
                 </div>
             </div>
         </div>

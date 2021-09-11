@@ -10,12 +10,12 @@
 
 @section('content')
 
-    <div class="container-fluid py-5 machinery-title px-0" style="background-color: #FEE6D5; color: #0b3f52;">
+    <div class="container-fluid py-5 machinery-title px-0" style="background-color: #FEE6D5;">
         <div class="container text-center">
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="fade-up" data-aos-duration="500">Baking and Confectionery Industry</h1>
+                    <h1 data-aos="fade-up" data-aos-duration="500" style="color: #ab5d53;">Baking and Confectionery Industry</h1>
                 </div>
             </div>
         </div>
@@ -82,6 +82,8 @@
         </div>
 
     </div>
+
+    @include('frontend.includes.categories')
 
     
 @endsection

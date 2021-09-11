@@ -57,7 +57,7 @@
                     <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
 
                     <div class="row mt-3">
-                        <div class="col-md-7" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">
+                        <div class="col-md-12 col-lg-9 col-xl-7 vision" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 1.1rem;">
                             <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
                         </div>
                     </div>
@@ -68,8 +68,8 @@
                     <img src="{{ url('images/about_us/mission.svg') }}" alt="" class="img-fluid" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
 
                     <div class="row mt-3">
-                        <div class="col-md-9" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">
-                            <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
+                        <div class="col-md-9 mission" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 0 0 2.5rem;">
+                            <p style="text-align:justify; font-size: 0.9rem;">To maximise customer satisfaction by providing cost-effective technical support for Sri Lankan food processing industries, together with value-addition to Sri Lankan agro-based processing for the export market.</p>
                         </div>
                     </div>
                 </div>
@@ -78,10 +78,19 @@
     </div>
 
 
-    <div class="container text-center about_us_history" style="margin-top: 5rem;">
-        <p class="p1" style="font-size: 7rem" data-aos="fade-up" data-aos-duration="500">25 years'</p>
-        <p class="p2" style="font-size: 3rem" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">Experience in the</p>
-        <p class="p3" style="font-size: 3rem" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">Food processing industry.</p>
+    <div class="container text-center about_us_history mb-4" style="margin-top: 3rem; line-height: 2.7rem;">
+        <!-- <p class="p1" style="font-size: 7rem" data-aos="fade-up" data-aos-duration="500">25 years'</p> -->
+        <div class="row justify-content-center mb-2">
+            <div class="col-6 text-center" data-aos="fade-up" data-aos-duration="500">
+                <img src="{{ url('images/about_us/25.png') }}" alt="" class="img-fluid" style="height: 5rem;">
+            </div>
+        </div>
+
+        <p class="p2" style="font-size: 2.5rem; color: #404042;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">Experience in the</p>
+        <p class="p2" style="font-size: 2.5rem; color: #404042;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150"> Food processing industry.</p>
+        
+        
+        <!-- <p class="p3" style="font-size: 3rem" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">Food processing industry.</p> -->
     </div>
 
 

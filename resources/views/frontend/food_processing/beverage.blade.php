@@ -14,7 +14,7 @@
         <div class="container text-center">
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="fade-up" data-aos-duration="500">Beverage Processing Industry</h1>
+                    <h1 data-aos="fade-up" data-aos-duration="500" style="color: #8c5828;">Beverage Processing Industry</h1>
                 </div>
             </div>
         </div>
@@ -52,8 +52,9 @@
                 </div>
             </div>
         </div>
-
     </div>
+
+    @include('frontend.includes.categories')
     
 
 @endsection
