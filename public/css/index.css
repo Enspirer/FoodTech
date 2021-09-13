@@ -5,12 +5,12 @@
     margin-top: 0.7rem;
 }
 
-h1 {
-    font-family: 'Helvetica', 'Arial', sans-serif;
+/* h1 {
+    font-family: Helvetica;
 }
 .index-sub h3, .index-title h3 {
-    font-family: 'Helvetica', 'Arial', sans-serif;
-}
+    font-family: 'Helvetica-light', 'Arial', sans-serif;
+} */
 
 .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
     bottom: 9px!important;

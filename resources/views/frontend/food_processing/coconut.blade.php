@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-md-8 col-lg-6">
-                    <p style="text-align:justify;" data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for coconut processing.</p>
+                    <p data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for coconut processing.</p>
 
                     <div class="row mt-3">
                         <div class="col-sm-6">

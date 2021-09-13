@@ -46,9 +46,9 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Ascorbic Acid</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;"  data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">This is a substance that is naturally found in many fresh fruits and vegetables. It is also manufactured commercially be means of biological synthesis methods. During this process, glucose is hydrogenated to sorbitol and then by the special strain of bacteria which oxidizes sorbitol to sorbate. During a further process, sorbate converts to ascorbic acid.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">This is a substance that is naturally found in many fresh fruits and vegetables. It is also manufactured commercially be means of biological synthesis methods. During this process, glucose is hydrogenated to sorbitol and then by the special strain of bacteria which oxidizes sorbitol to sorbate. During a further process, sorbate converts to ascorbic acid.</p>
                             <br>
-                        <h6 class="fw-bold" style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Mainly act as anti-oxidants which inhibits the browning reaction of fruit juices, coconut water, king coconut water processing, also used in the brewing industry.</h6>
+                        <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Mainly act as anti-oxidants which inhibits the browning reaction of fruit juices, coconut water, king coconut water processing, also used in the brewing industry.</h6>
                     </div>
                 </div>
 
@@ -60,9 +60,9 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Carboxy Methyl Cellulose</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Prepared by treating cellulose with alkali and monochloroacetic acid. Mostly used Cotton plant as base material.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Prepared by treating cellulose with alkali and monochloroacetic acid. Mostly used Cotton plant as base material.</p>
                             <br>
-                        <h6 class="fw-bold" style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Act as Thickening agent, Texture modifications, moisture migration control, non-nutritive bulking agents etc. Used in fruit processing, coconut processing and dairy processing.</h6>
+                        <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Act as Thickening agent, Texture modifications, moisture migration control, non-nutritive bulking agents etc. Used in fruit processing, coconut processing and dairy processing.</h6>
                     </div>
                 </div>
 
@@ -74,9 +74,9 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Carageenan</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Carrageenan is commercially produced using red sea weeds. This is commonly used in the food industry as a stabilizer.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Carrageenan is commercially produced using red sea weeds. This is commonly used in the food industry as a stabilizer.</p>
                             <br>
-                        <h6 class="fw-bold" style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Suspending and gelling agent in fruit beverages and dairy beverages; typically used evaporated milk, condensed milk, UHT milk, coconut milk etc.</h6>
+                        <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Suspending and gelling agent in fruit beverages and dairy beverages; typically used evaporated milk, condensed milk, UHT milk, coconut milk etc.</h6>
                     </div>
                 </div>
 
@@ -88,9 +88,9 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Guar Gum</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Guar gum extract from the seed of cluster bean (Cyamoposis tetragonalobus) belongs to the pea family which is native in India.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Guar gum extract from the seed of cluster bean (Cyamoposis tetragonalobus) belongs to the pea family which is native in India.</p>
                             <br>
-                        <h6 class="fw-bold" style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Thickening agent, Suspending agent. Commercially use in coconut milk industry, dairy and fruit processing industry.</h6>
+                        <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Thickening agent, Suspending agent. Commercially use in coconut milk industry, dairy and fruit processing industry.</h6>
                     </div>
                 </div>
 
@@ -102,9 +102,9 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Xanthan Gum</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Xanthan gum is produced by the fermentation of carbohydrates such as corn sugar by bacterial strain Xanthomonas Spp.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">Xanthan gum is produced by the fermentation of carbohydrates such as corn sugar by bacterial strain Xanthomonas Spp.</p>
                             <br>
-                        <h6 class="fw-bold" style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Emulsifier, stabilizer, thickener in coconut milk, dairy beverages, fruit beverages.</h6>
+                        <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">Functions - Emulsifier, stabilizer, thickener in coconut milk, dairy beverages, fruit beverages.</h6>
                     </div>
                 </div>
 
@@ -116,7 +116,7 @@
                     <div class="col-md-8">
                         <h6 class="fw-bold" data-aos="fade-up" data-aos-duration="500">Food Colours and Flavours</h6>
                             <hr class="mb-2">
-                        <p style="text-align: justify;" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">We import high quality food colours and flavours, including natural, nature-identical and synthetic colours in food industry.</p>
+                        <p data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">We import high quality food colours and flavours, including natural, nature-identical and synthetic colours in food industry.</p>
                     </div>
                 </div>
             </div>

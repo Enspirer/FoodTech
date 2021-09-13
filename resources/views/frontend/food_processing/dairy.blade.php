@@ -36,7 +36,7 @@
         <div class="container blue">
             <div class="row justify-content-center mb-3">
                 <div class="col-md-8 col-lg-6">
-                    <p style="text-align:justify;" data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for dairy processing industries and dairy farming.</p>
+                    <p data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for dairy processing industries and dairy farming.</p>
 
                     <ul class="p-3 mt-3 list">
                         <li class="mb-2" data-aos="fade-up" data-aos-duration="500">SS 316 Chilling tanks (Ice Bank Type and Direct Expansion)</li>

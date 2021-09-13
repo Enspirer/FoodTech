@@ -26,7 +26,7 @@
         <div class="container import_installation" style="margin-top: 4rem;">
             <div class="row justify-content-center">
                 <div class="col-md-8 col-lg-6" data-aos="fade-up" data-aos-duration="500">
-                    <p style="text-align: justify;">We import high quality brand-new and second-hand food processing machinery for dairy, coconut, fruits and vegetable processing, meat, sank processing, baking, confectionery, spice processing, carbonated soft-drinks and non-carbonated fruit beverages, while providing high quality after-sales services through our qualified technical team.</p>
+                    <p>We import high quality brand-new and second-hand food processing machinery for dairy, coconut, fruits and vegetable processing, meat, sank processing, baking, confectionery, spice processing, carbonated soft-drinks and non-carbonated fruit beverages, while providing high quality after-sales services through our qualified technical team.</p>
                 </div>
             </div>
 

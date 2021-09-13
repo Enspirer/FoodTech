@@ -59,7 +59,7 @@
 
                     <div class="row mt-3">
                         <div class="col-md-12 col-lg-9 col-xl-7 vision" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 1.1rem;">
-                            <p style="text-align:justify; font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
+                            <p style="font-size: 0.9rem;">To provide total technical solutions by highly qualified technical professionals with a view to uplifting Sri Lankan food processing industries.</p>
                         </div>
                     </div>
                     
@@ -70,7 +70,7 @@
 
                     <div class="row mt-3">
                         <div class="col-md-9 mission" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 0 0 2.5rem;">
-                            <p style="text-align:justify; font-size: 0.9rem;">To maximise customer satisfaction by providing cost-effective technical support for Sri Lankan food processing industries, together with value-addition to Sri Lankan agro-based processing for the export market.</p>
+                            <p style="font-size: 0.9rem;">To maximise customer satisfaction by providing cost-effective technical support for Sri Lankan food processing industries, together with value-addition to Sri Lankan agro-based processing for the export market.</p>
                         </div>
                     </div>
                 </div>

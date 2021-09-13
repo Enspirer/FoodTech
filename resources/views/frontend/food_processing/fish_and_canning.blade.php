@@ -36,7 +36,7 @@
         <div class="container blue position-relative" style="top: -4rem;">
             <div class="row justify-content-center mb-3">
                 <div class="col-md-8 col-lg-6">
-                    <p style="text-align:justify;" data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for fish processing and canning.</p>
+                    <p data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used machinery for fish processing and canning.</p>
 
                     <ul class="p-3 mt-3 list">
                         <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Fish Washing</li>

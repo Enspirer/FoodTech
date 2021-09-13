@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row justify-content-center mb-4">
                 <div class="col-md-8 col-lg-6">
-                    <p style="text-align:justify;" data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used beverage processing machinery and complete turnkey solutions, according to customer requirements.</p>
+                    <p data-aos="fade-up" data-aos-duration="500">Import and supply of brand-new and used beverage processing machinery and complete turnkey solutions, according to customer requirements.</p>
 
                     <ul class="p-3 mt-3 list">
                         <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Blending Tanks</li>

@@ -1,35 +1,35 @@
 @media screen and (min-width: 1400px) {
     .contact-img {
-        height: 35rem!important;
+        height: 30rem!important;
     }
 }
 
 @media screen and (max-width: 1400px) {
     .contact-img {
-        height: 30rem!important;
+        height: 25rem!important;
     }
 }
 
 @media screen and (max-width: 1200px) {
     .contact-img {
-        height: 25rem!important;
+        height: 20rem!important;
     }
 }
 
 @media screen and (max-width: 992px) {
     .contact-img {
-        height: 22rem!important;
+        height: 18rem!important;
     }
 }
 
 @media screen and (max-width: 768px) {
     .contact-img {
-        height: 19rem!important;
+        height: 16rem!important;
     }
 }
 
 @media screen and (max-width: 576px) {
     .contact-img {
-        height: 17rem!important;
+        height: 15rem!important;
     }
 }
