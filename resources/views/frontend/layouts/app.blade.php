@@ -96,6 +96,42 @@
                 $(this).find('p').removeClass('cat-hover-p');
             });
         </script>
+
+<script>
+        var swiper = new Swiper(".banner", {
+            navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+            },
+        });
+
+        var swiper = new Swiper(".categories", {
+            slidesPerView: 8,
+            loop: true,
+            spaceBetween: 10,
+            navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+            },
+            breakpoints: {
+
+                0: {
+                    slidesPerView: 1,
+                },
+
+                576: {
+                    slidesPerView: 5,
+                },
+                768: {
+                    slidesPerView: 8,
+                }
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+        });
+    </script>
         
         @stack('after-scripts')
 

@@ -23,15 +23,35 @@
             <div class="swiper-wrapper" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150">
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-1.jpg') }}" alt="" class="img-fluid w-100">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                        <div class="container text-center text-white">
+                            <h3>Import and Installation of Food Processing Machinery</h3>
+                        </div>
+                    </div>
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-2.jpg') }}" alt="" class="img-fluid w-100">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                        <div class="container text-center text-white">
+                            <h3>Designing Process Plants and Process Lines</h3>
+                        </div>
+                    </div>
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-3.jpg') }}" alt="" class="img-fluid w-100">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                        <div class="container text-center text-white">
+                            <h3>Importing Food Ingredients and Packaging Materials</h3>
+                        </div>
+                    </div>
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-4.jpg') }}" alt="" class="img-fluid w-100">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                        <div class="container text-center text-white">
+                            <h3>Consultancy for Food Safety Certification</h3>
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -41,12 +61,12 @@
         </div>
     </div>
 
-
+<!-- 
     <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
         <div class="container text-center text-white">
             <h3 data-aos="fade-up" data-aos-duration="500">Import and Installation of Food Processing Machinery</h3>
         </div>
-    </div>
+    </div> -->
 
 
     <div class="container index-image" style="margin-top: 11rem;">
@@ -137,41 +157,3 @@
     </div>
 @endsection
 
-
-@push('after-scripts')
-    <script>
-        var swiper = new Swiper(".banner", {
-            navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-            },
-        });
-
-        var swiper = new Swiper(".categories", {
-            slidesPerView: 8,
-            loop: true,
-            spaceBetween: 10,
-            navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-            },
-            breakpoints: {
-
-                0: {
-                    slidesPerView: 1,
-                },
-
-                576: {
-                    slidesPerView: 5,
-                },
-                768: {
-                    slidesPerView: 8,
-                }
-            },
-            pagination: {
-                el: ".swiper-pagination",
-                clickable: true,
-            },
-        });
-    </script>
-@endpush

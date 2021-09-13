@@ -15,7 +15,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="zoom-in" data-aos-duration="500">Thermal Process Validation</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="500" style="color: #a65e50;">Thermal Process Validation</h1>
                 </div>
             </div>
         </div>

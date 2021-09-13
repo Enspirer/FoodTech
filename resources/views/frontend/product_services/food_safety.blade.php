@@ -15,7 +15,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="zoom-in" data-aos-duration="500">Consultancy for Food Safety Certifications</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="500" style="color: #3c6c94;">Consultancy for Food Safety Certifications</h1>
                 </div>
             </div>
         </div>

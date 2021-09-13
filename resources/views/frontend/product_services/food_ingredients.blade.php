@@ -15,7 +15,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="zoom-in" data-aos-duration="500">Food Ingredients</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="500" style="color: #8c5a27;">Food Ingredients</h1>
                 </div>
             </div>
         </div>

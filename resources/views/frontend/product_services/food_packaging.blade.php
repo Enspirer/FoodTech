@@ -15,7 +15,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h1 data-aos="zoom-in" data-aos-duration="500">Import Food Packaging</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="500" style="color: #657431;">Import Food Packaging</h1>
                 </div>
             </div>
         </div>

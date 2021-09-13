@@ -3,6 +3,19 @@
     padding: 0.8rem 0;
     color: white;
 }
+h1, h5 {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.category-p {
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-top: 0.7rem;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 9px!important;
+}
 
 .food-safety p {
     font-size: 0.9rem;;
@@ -61,6 +74,9 @@ ul li::before {
     .machine-categories .col-md-4 {
         margin-bottom: 1.5rem;
     }
+    .swiper-pagination {
+        display: none!important;
+    }
 }
 
 @media screen and (max-width: 1400px) {
@@ -72,6 +88,9 @@ ul li::before {
     }
     .import_installation-p {
         font-size: 0.9rem;
+    }
+    .swiper-pagination {
+        display: none!important;
     }
 }
 
@@ -91,6 +110,9 @@ ul li::before {
     .machine-categories img {
         width: 100%;
     }
+    .category-p {
+        font-size: 0.7rem;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -105,6 +127,9 @@ ul li::before {
     }
     .food-safety-certificates .col-md-1 {
         padding-bottom: 1.5rem;
+    }
+    .category-p {
+        font-size: 0.6rem!important;
     }
 }
 
@@ -187,5 +212,15 @@ ul li::before {
     .thermal {
         margin-top: 3rem!important;
         margin-bottom: 2rem!important;
+    }
+    .swiper-pagination {
+        display: block!important;
+    }
+    .category-p {
+        font-weight: 400!important;
+        font-size: 0.8rem!important;
+    }
+    .index-slider .row {
+        margin: 0 0.25rem;
     }
 }
