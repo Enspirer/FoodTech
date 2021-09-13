@@ -22,7 +22,7 @@ h1 {
         height: 28rem!important;
     }
     .slider-img {
-        top: -3rem!important;
+        top: -4.4rem!important;
     }
     .swiper-pagination {
         display: none!important;
@@ -58,7 +58,7 @@ h1 {
         height: 25rem!important;
     }
     .slider-img {
-        top: -4.2rem!important;
+        top: -5.7rem!important;
     }
     .swiper-pagination {
         display: none!important;
@@ -75,9 +75,9 @@ h1 {
     .index-img img {
         height: 21rem!important;
     }
-    .slider-img {
+    /* .slider-img {
         top: -5.5rem!important;
-    }
+    } */
     .index-image {
         margin-top: 13rem!important;
     }

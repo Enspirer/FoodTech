@@ -31,7 +31,7 @@
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-2.jpg') }}" alt="" class="img-fluid w-100">
-                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #84a973;">
                         <div class="container text-center text-white">
                             <h3>Designing Process Plants and Process Lines</h3>
                         </div>
@@ -39,7 +39,7 @@
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-3.jpg') }}" alt="" class="img-fluid w-100">
-                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #b5a470;">
                         <div class="container text-center text-white">
                             <h3>Importing Food Ingredients and Packaging Materials</h3>
                         </div>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ url('images/home/banner-4.jpg') }}" alt="" class="img-fluid w-100">
-                    <div class="container-fluid p-3 index-sub" style="background-color: #6BA7A7;">
+                    <div class="container-fluid p-3 index-sub" style="background-color: #af8259;">
                         <div class="container text-center text-white">
                             <h3>Consultancy for Food Safety Certification</h3>
                         </div>
