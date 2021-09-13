@@ -54,7 +54,8 @@
         <div class="container">
             <div class="row text-white">
                 <div class="col-md-6">
-                    <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
+                    <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid normal" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
+                    <img src="{{ url('images/about_us/vision-small.svg') }}" alt="" class="img-fluid small" style="height: 10rem; display:none" data-aos="fade-up" data-aos-duration="500">
 
                     <div class="row mt-3">
                         <div class="col-md-12 col-lg-9 col-xl-7 vision" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 1.1rem;">
