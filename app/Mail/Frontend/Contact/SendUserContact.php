@@ -10,7 +10,7 @@ use Illuminate\Queue\SerializesModels;
 /**
  * Class SendContact.
  */
-class SendContact extends Mailable
+class SendUserContact extends Mailable
 {
     use Queueable, SerializesModels;
 
@@ -36,9 +36,8 @@ class SendContact extends Mailable
      */
     public function build()
     {
-        
-        return $this->to([config('mail.from.address'), 'zajjith@yopmail.com'], config('mail.from.name'))
-            ->view('frontend.mail.contact')
+        return $this->to([config('mail.from.address'), $this->request->email], config('mail.from.name'))
+            ->view('frontend.mail.user_contact')
             ->text('frontend.mail.contact-text')
             ->subject(__('strings.emails.contact.subject', ['app_name' => app_name()]))
             ->from($this->request->email, $this->request->name)

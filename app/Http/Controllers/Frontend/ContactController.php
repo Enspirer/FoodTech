@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Frontend;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Frontend\Contact\SendContactRequest;
 use App\Mail\Frontend\Contact\SendContact;
+use App\Mail\Frontend\Contact\SendUserContact;
 use Illuminate\Support\Facades\Mail;
 use App\Models\Contact;
 use Illuminate\Http\Request;
@@ -42,6 +43,8 @@ class ContactController extends Controller
 
         
         Mail::send(new SendContact($request));
+
+        Mail::send(new SendUserContact($request));
 
         return back()->withFlashSuccess(__('alerts.frontend.contact.sent'));
 
