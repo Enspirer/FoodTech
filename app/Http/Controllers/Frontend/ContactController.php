@@ -31,15 +31,15 @@ class ContactController extends Controller
     public function send(Request $request)
     {
 
-        $contact = new Contact;
+        // $contact = new Contact;
 
-        $contact->first_name=$request->first_name;
-        $contact->last_name=$request->last_name;
-        $contact->email=$request->email;
-        $contact->message=$request->message;
-        $contact->status='Pending';
+        // $contact->first_name=$request->first_name;
+        // $contact->last_name=$request->last_name;
+        // $contact->email=$request->email;
+        // $contact->message=$request->message;
+        // $contact->status='Pending';
 
-        $contact->save();
+        // $contact->save();
 
         
         Mail::send(new SendContact($request));
