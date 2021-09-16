@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8 col-lg-6" data-aos="fade-up" data-aos-duration="500">
-                        <h5>We import & supply high quality food additives, stabilizers, emulsifiers, food flavours and food colorings for food industry.</h5>
+                        <p>We import & supply high quality food additives, stabilizers, emulsifiers, food flavours and food colorings for food industry.</p>
                     </div>
                 </div>
             </div>

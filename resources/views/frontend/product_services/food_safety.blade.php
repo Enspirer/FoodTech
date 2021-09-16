@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8 col-lg-6" data-aos="fade-up" data-aos-duration="500">
-                        <h5>We provide consultations for implementation of food safety certifications such as BRC, IFS, ISO 22000, FSSC, HACCP, organic certifications, social standards and religious standards, including documentation, staff training, processing plans gap audits, internal audits, GMP audits, fabrication audits, etc.</h5>
+                        <p>We provide consultations for implementation of food safety certifications such as BRC, IFS, ISO 22000, FSSC, HACCP, organic certifications, social standards and religious standards, including documentation, staff training, processing plant gap audits, internal audits, GMP audits, fabrication audits, etc.</p>
                     </div>
                 </div>
             </div>

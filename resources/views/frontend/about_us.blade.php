@@ -36,7 +36,7 @@
     <div class="container mt-5 about_us_paragraphs">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6">
-                <p data-aos="fade-up" data-aos-duration="500">FoodTech Solution (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the food processing industry. Our main services are the import of high-quality food machinery, food ingredients, food packaging and food analytical equipment, in addition to providing consultancy services for plant designing, process line designing, food research & development, food safety certifications, Thermal Process Audits and Thermal Process Validation, food safety training, etc.</p>
+                <p data-aos="fade-up" data-aos-duration="500">Food Tech Solutions (Pvt) Ltd is a limited liability company incorporated in Sri Lanka, mainly focused on providing a wide spectrum of technical solutions to the food processing industry. Our main services are the import of high-quality food machinery, food ingredients, food packaging and food analytical equipment, in addition to providing consultancy services for plant designing, process line designing, food research & development, food safety certifications, Thermal Process Audits and Thermal Process Validation, food safety training, etc.</p>
 
                 <br>
 
@@ -44,7 +44,7 @@
 
                 <br>
 
-                <p data-aos="fade-up" data-aos-duration="500">The Company is under the leadership of technical experts and professionals having more than 25 years’ experience in the food processing industry. FoodTech solutions (Pvt) Ltd is engaged as the local representative of leading  food machinery manufacturers in Thailand, Germany, Singapore, India, China and Italy.</p>
+                <p data-aos="fade-up" data-aos-duration="500">The Company is under the leadership of technical experts and professionals having more than 25 years’ experience in the food processing industry. Food Tech Solutions (Pvt) Ltd is engaged as the local representative of leading  food machinery manufacturers in Thailand, Germany, Singapore, India, China and Italy.</p>
             </div>
         </div>
     </div>
@@ -53,7 +53,7 @@
     <div class="container-fluid py-5 vision-mission" style="background-color: #EB8262; margin-top: 7rem;">
         <div class="container">
             <div class="row text-white">
-                <div class="col-md-6">
+                <div class="col-md-6 col-lg-5 col-xl-6">
                     <img src="{{ url('images/about_us/vision.svg') }}" alt="" class="img-fluid normal" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
                     <img src="{{ url('images/about_us/vision-small.svg') }}" alt="" class="img-fluid small" style="height: 10rem; display:none" data-aos="fade-up" data-aos-duration="500">
 
@@ -65,11 +65,12 @@
                     
                 </div>
 
-                <div class="col-md-6 text-end">
-                    <img src="{{ url('images/about_us/mission.svg') }}" alt="" class="img-fluid" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
+                <div class="col-md-6 col-lg-7 col-xl-6 text-end">
+                    <img src="{{ url('images/about_us/mission.svg') }}" alt="" class="img-fluid normal" style="height: 10rem;" data-aos="fade-up" data-aos-duration="500">
+                    <img src="{{ url('images/about_us/mission-small.svg') }}" alt="" class="img-fluid small" style="height: 10rem; display:none" data-aos="fade-up" data-aos-duration="500">
 
                     <div class="row mt-3">
-                        <div class="col-md-9 mission" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 0 0 2.5rem;">
+                        <div class="col-md-9 mission" data-aos="fade-up" data-aos-duration="500" data-aos-delay="150" style="padding: 0 0 0 2rem;">
                             <p style="font-size: 0.9rem;">To maximise customer satisfaction by providing cost-effective technical support for Sri Lankan food processing industries, together with value-addition to Sri Lankan agro-based processing for the export market.</p>
                         </div>
                     </div>
