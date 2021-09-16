@@ -12,9 +12,9 @@
 
     <div class="container-fluid py-5">
         <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-6-md text-center text-md-end">
-                    <img src="{{ url('images/contact.png') }}" alt="" class="img-fluid contact-img" style="height: 30rem;"  data-aos="zoom-out" data-aos-duration="800">
+            <div class="row justify-content-center">
+                <div class="col-6-md text-center">
+                    <img src="{{ url('images/contact.png') }}" alt="" class="img-fluid contact-img" style="height: 25rem;"  data-aos="zoom-out" data-aos-duration="800">
                 </div>
             </div>
         </div>

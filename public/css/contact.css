@@ -1,12 +1,12 @@
 @media screen and (min-width: 1400px) {
     .contact-img {
-        height: 30rem!important;
+        height: 25rem!important;
     }
 }
 
 @media screen and (max-width: 1400px) {
     .contact-img {
-        height: 25rem!important;
+        height: 22rem!important;
     }
 }
 

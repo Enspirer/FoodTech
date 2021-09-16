@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row justify-content-center mb-4">
                 <div class="col-md-8 col-lg-6">
-                    <p data-aos="fade-up" data-aos-duration="500">Food Tech Solutions (Pvt) Ltd imports and supplies Steam Boilers of any capacity, according to customer requirements. We can supply different types of boilers fired by Diesel, Kerosine oil. furnace oil and biomass.</p>
+                    <p data-aos="fade-up" data-aos-duration="500">Food Tech Solutions (Pvt) Ltd imports and supplies Steam Boilers of any capacity, according to customer requirements. We can supply different types of boilers fired by Diesel, Kerosine oil, furnace oil and biomass.</p>
                 </div>
             </div>
         </div>
