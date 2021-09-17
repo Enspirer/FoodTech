@@ -41,17 +41,19 @@
                     <div class="row mt-3">
                         <div class="col-sm-6">
                             <ul class="p-3 dual-list">
+                                <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Virgin coconut oil processing machinery</li>
+                                <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Creamed coconut processing machinery</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Coconut Milk Extractors</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Conveyers</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Pasteurizers</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Milk Cooling Tanks</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Homogenizers</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Can Filling Machines</li>
-                                <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Can Seamers</li>
                             </ul>
                         </div>
                         <div class="col-sm-6">
                             <ul class="p-3 dual-list">
+                                <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Can Seamers</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Retorts (direct steam, over pressure, continuous, rotary)</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">UHT Plants, Spray Dryers</li>
                                 <li class="mb-2" data-aos="fade-up" data-aos-duration="500">Double Jacketed Kettles</li>
